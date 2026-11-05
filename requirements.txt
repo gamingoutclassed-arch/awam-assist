@@ -6,8 +6,7 @@ langchain-groq
 langchain-core
 langchain-text-splitters
 chromadb
-sentence-transformers
-pypdf
+onnxruntime
 pydantic
 groq
 python-multipart
